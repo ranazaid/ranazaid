@@ -6,6 +6,7 @@ FinTech · Banking · IoT · E-commerce · SaaS — based in Lahore 🇵🇰, wo
 [![Portfolio](https://img.shields.io/badge/Portfolio-zaid--mubbashar.vercel.app-0a66c2?style=flat&logo=vercel&logoColor=white)](https://zaid-mubbashar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zaid--mubbasher-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaid-mubbasher-353255199)
 [![Email](https://img.shields.io/badge/Email-zmubbasher%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:zmubbasher@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Hire%20me-on%20Fiverr-1dbf73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/zaidmubbasher)
 
 ---
 
@@ -55,3 +56,6 @@ FinTech · Banking · IoT · E-commerce · SaaS — based in Lahore 🇵🇰, wo
 ---
 
 💬 **Open to remote roles & freelance work** — the fastest way to reach me is [email](mailto:zmubbasher@gmail.com) or [LinkedIn](https://www.linkedin.com/in/zaid-mubbasher-353255199).
+
+🛠 **Need an iOS app built, fixed, or shipped to the App Store?** I take project work on
+[Fiverr](https://www.fiverr.com/zaidmubbasher) — native iOS (Swift/SwiftUI), Flutter, and App Store / TestFlight releases.
