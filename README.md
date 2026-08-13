@@ -52,13 +52,6 @@ FinTech · Banking · IoT · E-commerce · SaaS — based in Lahore 🇵🇰, wo
 | [quiz-app-ios](https://github.com/ranazaid/quiz-app-ios) | Adaptive quiz flows with local persistence | Swift · UIKit |
 | [destini-story-app](https://github.com/ranazaid/destini-story-app) | Choice-driven interactive stories | Swift · UIKit |
 
-## 📈 GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ranazaid&show_icons=true&theme=default&hide_border=true" alt="Zaid's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranazaid&layout=compact&hide_border=true&langs_count=8" alt="Top languages" height="165" />
-</p>
-
 ---
 
 💬 **Open to remote roles & freelance work** — the fastest way to reach me is [email](mailto:zmubbasher@gmail.com) or [LinkedIn](https://www.linkedin.com/in/zaid-mubbasher-353255199).
