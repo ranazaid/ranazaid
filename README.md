@@ -43,6 +43,13 @@ TypeScript · React · Node.js · React Native · Swift — FinTech, banking, Io
 ![Fastlane](https://img.shields.io/badge/Fastlane_CI%2FCD-00F200?style=flat&logo=fastlane&logoColor=black)
 ![OAuth](https://img.shields.io/badge/OAuth_2.0_%2F_JWT-EB5424?style=flat&logo=auth0&logoColor=white)
 
+## ⭐ Featured: OpsDesk, a full-stack SaaS reference build
+
+| Repo | What it shows | Stack |
+|---|---|---|
+| [opsdesk-web](https://github.com/ranazaid/opsdesk-web) | Multi-tenant support SaaS: org-scoped RBAC (owner/admin/agent/viewer), Stripe subscriptions with verified idempotent webhooks, streamed LLM ticket summaries, Datadog APM + trace-correlated logs, Snyk + CI, 74 tests | Next.js · React · TypeScript · PostgreSQL (Drizzle) · Stripe · Datadog · Snyk |
+| [opsdesk-mobile](https://github.com/ranazaid/opsdesk-mobile) | iOS & Android companion app: secure token auth, role-aware UI, offline outbox, push notifications, Datadog RUM | React Native (Expo) · TypeScript · TanStack Query |
+
 ## 🚀 Production work
 
 | Product | My role | Stack |
