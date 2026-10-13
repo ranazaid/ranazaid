@@ -47,8 +47,8 @@ TypeScript · React · Node.js · React Native · Swift — FinTech, banking, Io
 
 | Repo | What it shows | Stack |
 |---|---|---|
-| [opsdesk-web](https://github.com/ranazaid/opsdesk-web) | Multi-tenant support SaaS: org-scoped RBAC (owner/admin/agent/viewer), Stripe subscriptions with verified idempotent webhooks, streamed LLM ticket summaries, Datadog APM + trace-correlated logs, Snyk + CI, 74 tests | Next.js · React · TypeScript · PostgreSQL (Drizzle) · Stripe · Datadog · Snyk |
-| [opsdesk-mobile](https://github.com/ranazaid/opsdesk-mobile) | iOS & Android companion app: secure token auth, role-aware UI, offline outbox, push notifications, Datadog RUM | React Native (Expo) · TypeScript · TanStack Query |
+| [opsdesk-web](https://github.com/ranazaid/opsdesk-web) | Multi-tenant support SaaS: org-scoped RBAC (owner/admin/agent/viewer), Stripe subscriptions with verified idempotent webhooks, streamed LLM ticket summaries, Datadog APM + trace-correlated logs, Snyk + CI, 87 tests | Next.js · React · TypeScript · PostgreSQL (Drizzle) · Stripe · Datadog · Snyk |
+| [opsdesk-mobile](https://github.com/ranazaid/opsdesk-mobile) | iOS & Android companion app: secure token auth, role-aware UI, offline outbox, push notifications, Datadog RUM, contract-tested against the live web API | React Native (Expo) · TypeScript · TanStack Query |
 
 ## 🚀 Production work
 
